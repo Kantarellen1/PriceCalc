@@ -1,0 +1,5 @@
+# Ignore the virtual environment directory
+sklearn-env/
+
+# Ignore the CSV file
+EJ121.csv
